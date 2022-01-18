@@ -1,3 +1,2 @@
 # My-restaurant
-asdasd
-## adad
+![wireframe](task02.jpg)
